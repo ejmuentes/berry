@@ -13,7 +13,7 @@ Any major release has its breaking changes, and Yarn 2 isn't the exception. A fe
 
 ## Why should you migrate?
 
-We answer this question in details [here](https://yarnpkg.com/getting-started/qa#why-should-you-upgrade-to-yarn-modern).
+We answer this question in detail [here](https://yarnpkg.com/getting-started/qa#why-should-you-upgrade-to-yarn-modern).
 
 In a few words, upgrading to the latest versions is critical to a fast and stable Yarn experience. Numerous bugs were fixed since the first major version, and we no longer expect to build new features on the old trunk. **Even if you don't plan to use the new default installation strategy called Plug'n'Play** your projects will still get benefits from the upgrade:
 
